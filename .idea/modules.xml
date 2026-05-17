@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GrowAI_Postman_Project.iml" filepath="$PROJECT_DIR$/.idea/GrowAI_Postman_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jenkins_Postman.iml" filepath="$PROJECT_DIR$/.idea/Jenkins_Postman.iml" />
     </modules>
   </component>
 </project>
